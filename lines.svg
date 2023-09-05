@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1141px" height="642px" viewBox="0 0 1141 642" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.089661%" y1="-1.59130817%" x2="49.089661%" y2="56.3988422%" id="linearGradient-1">
+            <stop stop-color="#0D1552" stop-opacity="0.41559222" offset="0%"></stop>
+            <stop stop-color="#0D1552" offset="41.6711075%"></stop>
+            <stop stop-color="#0D1552" stop-opacity="0" offset="100%"></stop>
+            <stop stop-color="#0D1552" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page_New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.553408668">
+        <g id="home-" transform="translate(-390.000000, -2284.000000)" stroke="url(#linearGradient-1)">
+            <g id="Group-8" transform="translate(391.000000, 2285.000000)">
+                <circle id="Oval" cx="569.5" cy="569.5" r="569.5"></circle>
+                <circle id="Oval" cx="569.5" cy="569.5" r="512.5"></circle>
+                <circle id="Oval" cx="570.5" cy="570.5" r="455.5"></circle>
+                <circle id="Oval" cx="569.5" cy="569.5" r="398.5"></circle>
+                <circle id="Oval" cx="570" cy="570" r="342"></circle>
+                <circle id="Oval" cx="570" cy="570" r="285"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
